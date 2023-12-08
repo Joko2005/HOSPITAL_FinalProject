@@ -1,0 +1,7 @@
+C:\Users\Joko\source\repos\HOSPITAL_FinalProject\HOSPITAL_FinalProject\obj\Debug\HOSPITAL_FinalProject.csproj.AssemblyReference.cache
+C:\Users\Joko\source\repos\HOSPITAL_FinalProject\HOSPITAL_FinalProject\obj\Debug\HOSPITAL_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Joko\source\repos\HOSPITAL_FinalProject\HOSPITAL_FinalProject\bin\Debug\HOSPITAL_FinalProject.exe.config
+C:\Users\Joko\source\repos\HOSPITAL_FinalProject\HOSPITAL_FinalProject\bin\Debug\HOSPITAL_FinalProject.exe
+C:\Users\Joko\source\repos\HOSPITAL_FinalProject\HOSPITAL_FinalProject\bin\Debug\HOSPITAL_FinalProject.pdb
+C:\Users\Joko\source\repos\HOSPITAL_FinalProject\HOSPITAL_FinalProject\obj\Debug\HOSPITAL_FinalProject.exe
+C:\Users\Joko\source\repos\HOSPITAL_FinalProject\HOSPITAL_FinalProject\obj\Debug\HOSPITAL_FinalProject.pdb
